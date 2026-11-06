@@ -29,6 +29,6 @@ RAG agent that answers LangChain documentation questions with source citations.
 - Generative AI Certified, VR Trainings (2026)
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/pinky-vishwakkarma-3b5538414) | pinkyvishwakarma2004@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pinky-vishwakarma-3b5538414) | pinkyvishwakkarma2004@gmail.com
 
 *Open to AI Engineer / ML Engineer / Generative AI Developer roles.*
